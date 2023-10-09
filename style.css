@@ -1,0 +1,24 @@
+
+ #start {
+    background-color: #8135CD;
+    color: white;
+    width: 10rem;
+    height: 3rem;
+    border-radius: 10px;
+ }
+
+ #pause {
+    background-color: #CF82DC;
+    color: white;
+    width: 10rem;
+    height: 3rem;
+    border-radius: 10px;
+ }
+
+ #stop {
+    background-color: #8D6E92;
+    color: white;
+    width: 10rem;
+    height: 3rem;
+    border-radius: 10px;
+ }
