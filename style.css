@@ -1,3 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap');
+/* font-family: 'Tilt Neon', cursive; */
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+/* font-family: 'VT323', monospace; */
+
+
+.container {
+   text-align: center;
+}
+
+fieldset {
+background-image: ;
+}
+
+h1 {
+    font-family: 'Tilt Neon', cursive;
+   font-size: 2rem;
+   text-align: center;
+}
 
  #start {
     background-color: #8135CD;
@@ -5,7 +24,10 @@
     width: 10rem;
     height: 3rem;
     border-radius: 10px;
- }
+    font-family: 'Tilt Neon', cursive; 
+    font-size: 1.5rem;
+
+}
 
  #pause {
     background-color: #CF82DC;
@@ -13,6 +35,8 @@
     width: 10rem;
     height: 3rem;
     border-radius: 10px;
+    font-family: 'Tilt Neon', cursive;
+    font-size: 1.5rem;
  }
 
  #stop {
@@ -21,4 +45,13 @@
     width: 10rem;
     height: 3rem;
     border-radius: 10px;
+    font-family: 'Tilt Neon', cursive;
+    font-size: 1.5rem;
+
+ }
+
+ .chronometre {
+    text-align: center;
+    font-family: 'VT323', monospace;
+    font-size: 2rem;
  }
