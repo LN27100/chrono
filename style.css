@@ -5,14 +5,17 @@
 
 
 
+.img {
+   opacity: 50%;
+}
 .container {
    text-align: center;
 }
 
 fieldset {
-background-image: ;
-background-image: url(img/russian-3714727_640.jpg);
+/* background-image: url(img/russian-3714727_640.jpg); */
 width: 50rem;
+filter: opacit(50%);
 }
 
 h1 {
